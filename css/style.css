@@ -12,37 +12,38 @@ h1 {
 }
 
 footer {
-  color: #DBEDF3;
+  color: #DBEDF3; 
   font-family: sans-serif;
 }
 
 .w {
-  background-image: url('img/tom1.png');
+  background-image: url("images/tom1.png");
 }
 
 .a {
-  background-image: url("img/tom2.png");
+  background-image: url("images/tom2.png");
 }
 
 .s {
-  background-image: url("img/tom3.png");
+  background-image: url("images/tom3.png");
 }
 
 .d {
-  background-image: url("img/tom4.png");
+  background-image: url("images/tom4.png");
 }
 
 .j {
-  background-image: url("img/snare.png");
+  background-image: url("images/snare.png");
 }
 
 .k {
-  background-image: url("img/crash.png");
+  background-image: url("images/crash.png");
 }
 
 .l {
-  background-image: url("img/kick.png");
+  background-image: url("images/kick.png");
 }
+
 
 .set {
   margin: 10% auto;
